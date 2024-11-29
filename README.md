@@ -1,6 +1,6 @@
 *Changes to the initial game have been made*
 
--  A,S,Q,D (on azerty keyboard) are used for movement <br>
+-  Z,S,Q,D (on azerty keyboard) are used for movement <br>
 -  The player can now run by holding down Ctrl Key <br>
 -  The player can walk slowly by holding down Shift Key <br>
 -  Traps make the player lose one life point (unless he is walking slowly) <br>
